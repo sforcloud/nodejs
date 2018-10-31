@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "scalable microservices",
+  "main": "server.js",
+  "keywords": [
+    "microservices"
+  ],
+  "author": "Bojan Ciric",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "install": "^0.12.2",
+    "mongoose": "^5.3.5",
+    "npm": "^6.4.1",
+    "seneca": "^3.7.0",
+    "seneca-entity": "^2.3.0",
+    "seneca-mongo-store": "^1.4.0",
+    "seneca-web": "^2.2.1",
+    "seneca-web-adapter-express": "^1.1.2"
+  }
+}
